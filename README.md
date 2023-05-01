@@ -21,7 +21,7 @@ The user should be able to:
 
 To Run the website:
    
-   1. Enter npm install in the terminal.
+    1. Enter npm install in the terminal.
     2. Run (npm run json) for the server.
     3. Then run (npm start) on a seperate terminal to run the website.
 
